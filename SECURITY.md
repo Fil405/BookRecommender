@@ -14,4 +14,4 @@ Those are the JDK supported versions of this project. Please do not use any othe
 ## Reporting a Vulnerability
 
 To report bugs or vulmerabilities you can email me at fglunardi@studenti.uninsubria.it .
-Since I'm working on this alone, it's going to take me a while for fixing everything, but I'll let you know once it's fixed.
+Since I'm working on this alone, it's going to take me a while to fix eventual bugs, but I'll let you know once it's fixed.
