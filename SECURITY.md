@@ -1,9 +1,8 @@
 # Security Policy
 
-## Supported Versions
+## JDK Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Those are the JDK supported versions of this project. Please do not use any other version other than JDK 17. Support is not going to be given if JDK 17 is not being used.
 
 | JDK Version | Supported          |
 | ------- | ------------------ |
@@ -14,8 +13,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report bugs or vulmerabilities you can email me at fglunardi@studenti.uninsubria.it .
+Since I'm working on this alone, it's going to take me a while for fixing everything, but I'll let you know once it's fixed.
